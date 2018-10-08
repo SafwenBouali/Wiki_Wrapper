@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: wikiwrap
+Version: 0.3
+Summary: Few more functions that can wrap and handle the "Wikipedia" package in python, made into one package.
+Home-page: https://github.com/SafwenBouali/wikiwrap
+Author: Safwen Bouali
+Author-email: safwen.bouali@outlook.com
+License: UNKNOWN
+Description: # Wiki Wrapper
+        Few more functions that can wrap and handle the "Wikipedia" package in python, made into one package.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

@@ -1,0 +1,7 @@
+README.md
+setup.py
+wikiwrap/__init__.py
+wikiwrap.egg-info/PKG-INFO
+wikiwrap.egg-info/SOURCES.txt
+wikiwrap.egg-info/dependency_links.txt
+wikiwrap.egg-info/top_level.txt
